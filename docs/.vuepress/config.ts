@@ -202,7 +202,7 @@ export default defineUserConfig({
     comment: {
       provider: 'Giscus',
       comment: true,
-      repo: 'HEUOpenResource/HEUOpenResource.github.io',
+      repo: 'HEUOpenResource/heu-icicles',
       repoId: 'R_kgDOLtq1RQ',
       category: 'General',
       categoryId: 'DIC_kwDOLtq1Rc4Ceqlk',
