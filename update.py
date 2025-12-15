@@ -117,7 +117,7 @@ def create_download_link_github(path):
 
 
 def create_download_link_ghproxy(path):
-    return f"https://mirror.ghproxy.com/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/{path}"
+    return f"https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/{path}"
 
 
 def create_download_link_kokomi0728(path):
@@ -157,8 +157,8 @@ def generate_markdown_recursive(path=""):
 
     # 文件表格
     if files:
-        markdown_content += "文件名 | 文件大小 | Github下载链接 | 备用链接1 | 备用链接2 | 备用链接3\n"
-        markdown_content += "---|---|---|---|---|---\n"
+        markdown_content += "资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3\n"
+        markdown_content += "|:---:|:---:|:---:|:---:|:---:|:---:\n"
         for f in files:
             f_path = f"{path}/{f['name']}" if path else f['name']
             github_link = create_download_link_github(f_path)
@@ -186,9 +186,10 @@ def process_dir_readme(dir_name):
     if DOWNLOAD_FROM_GITHUB:
         download_url = find_readme(dir_name)
         if not download_url:
-            print(f"❌ 未找到 {dir_name}/README.md\n")
-            return False
-        content = requests.get(download_url, headers=HEADERS).text
+            print(f"⚠️ 未找到 {dir_name}/README.md，使用空 README\n")
+            content = ""
+        else:
+            content = requests.get(download_url, headers=HEADERS).text
     else:
         content = load_local_file(filename)
         if not content:
