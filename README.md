@@ -4,4 +4,6 @@
 
 访问：[https://heu.us.kg](https://heu.us.kg)
 
+资源仓库：[https://github.com/HEUOpenResource/heu-icicles](https://github.com/HEUOpenResource/heu-icicles)
+
 ![https://heu.us.kg](./docs/.vuepress/public/intro.png)
