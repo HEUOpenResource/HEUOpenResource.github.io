@@ -10,6 +10,7 @@ import Analysis from './theme/components/Analysis.vue'
 import Contributors from './theme/components/Contributors.vue'
 import { h } from 'vue'
 import CustomComponent from './theme/components/Custom.vue'
+import OhmmeterTool from './theme/components/OhmmeterTool.vue'
 
 import './theme/styles/custom.css'
 
@@ -24,6 +25,7 @@ export default defineClientConfig({
     // your custom components
     app.component('CustomComponent', CustomComponent)
     app.component('Contributors', Contributors)
+    app.component('OhmmeterTool', OhmmeterTool)
   },
   layouts: {
     Layout: h(Layout, null, {
