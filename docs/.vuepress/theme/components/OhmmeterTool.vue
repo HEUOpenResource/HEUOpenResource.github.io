@@ -314,10 +314,11 @@ watchEffect(() => {
 .data-table th {
     padding: 0.75rem;
     text-align: center;
-    color: #2c3e50;
+    color: #1976d2 !important;
     font-weight: 600;
     font-size: 0.9rem;
-    border-bottom: 2px solid #e0e0e0;
+    border-bottom: 2px solid #90caf9 !important;
+    /* background: #e3f2fd ; */
 }
 
 .data-table td {
@@ -342,7 +343,8 @@ watchEffect(() => {
     font-size: 0.9rem;
     text-align: center;
     transition: all 0.2s;
-    background: white;
+    background: white ;
+    color: #2c3e50;
 }
 
 .data-input:focus {
