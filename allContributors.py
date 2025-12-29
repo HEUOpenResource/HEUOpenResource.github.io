@@ -4,6 +4,9 @@ import json
 import re
 from pathlib import Path
 from collections import OrderedDict
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ======================
 # 基本配置
