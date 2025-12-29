@@ -26,6 +26,80 @@
   */
 }
 
+/** 调整导航栏标题布局 - Logo左侧，标题右侧两行显示 */
+
+/** Logo和标题的容器使用横向布局 */
+.vp-navbar a[href="/"],
+.vp-nav-bar-title-container,
+.logo-link,
+.VPNavBarTitle {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  flex-wrap: nowrap !important;
+  vertical-align: middle !important;
+}
+
+/** Logo图标保持固定大小 */
+.vp-navbar .vp-logo,
+.vp-navbar img,
+.VPNavBarTitle img {
+  flex-shrink: 0 !important;
+  width: 32px !important;
+  height: 32px !important;
+  margin: 0 !important;
+}
+
+/** 标题文字样式 - 允许两行显示 */
+.vp-navbar a[href="/"] span,
+.VPNavBarTitle span,
+.vp-nav-title,
+.vp-site-title {
+  font-size: 15px !important;
+  max-width: 350px !important;
+  line-height: 1.3 !important;
+  overflow: hidden !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 2 !important;
+  line-clamp: 2 !important;
+  -webkit-box-orient: vertical !important;
+  word-break: break-word !important;
+  white-space: normal !important;
+  text-align: left !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/** 针对中等屏幕调整 */
+@media (max-width: 960px) {
+  .vp-navbar a[href="/"] span,
+  .VPNavBarTitle span,
+  .vp-nav-title,
+  .vp-site-title {
+    font-size: 12px !important;
+    max-width: 260px !important;
+    line-height: 1.25 !important;
+  }
+}
+
+/** 针对小屏幕调整 */
+@media (max-width: 768px) {
+  .vp-navbar a[href="/"] span,
+  .VPNavBarTitle span,
+  .vp-nav-title,
+  .vp-site-title {
+    font-size: 11px !important;
+    max-width: 160px !important;
+  }
+  
+  .vp-navbar .vp-logo,
+  .vp-navbar img,
+  .VPNavBarTitle img {
+    width: 28px !important;
+    height: 28px !important;
+  }
+}
+
 /** 深色模式 */
 [data-theme="dark"] {
   /*
@@ -47,4 +121,29 @@
   --vp-c-text-2: rgba(235, 235, 245, 0.6);
   --vp-c-text-3: rgba(235, 235, 245, 0.38);
   */
+}
+
+/** 导航栏整体布局优化 */
+.vp-navbar .container,
+.vp-nav-bar .container {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+/** Logo容器不要被挤压，允许内容自然换行 */
+.vp-navbar .logo-container,
+.vp-nav-bar .logo,
+.vp-navbar-logo {
+  display: inline-flex !important;
+  align-items: center !important;
+  flex-shrink: 0 !important;
+  margin-right: 24px !important;
+}
+
+/** 确保导航菜单保持固定 */
+.vp-nav-bar-menu,
+.vp-navbar-menu {
+  flex-shrink: 0 !important;
+  margin-left: auto !important;
 }

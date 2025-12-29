@@ -1,9 +1,11 @@
 import os
 import requests
+from dotenv import load_dotenv
 
 OWNER = "HEUOpenResource"
 REPO = "heu-icicles"
 BRANCH = "main"
+load_dotenv()
 
 OUTPUT_DIR = "docs/resource"
 # 1️⃣ 本地可直接写死；留空（None / ""）则自动从环境变量读取
