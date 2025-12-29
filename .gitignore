@@ -5,6 +5,7 @@ docs/.vuepress/.temp
 docs/.vuepress/dist
 
 docs/resource
+package-lock.json
 
 .env
 test/

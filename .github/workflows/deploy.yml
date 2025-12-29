@@ -54,7 +54,7 @@ jobs:
 
       # 安装 Node 依赖
       - name: 📦 安装 Node 依赖
-        run: npm ci
+        run: npm i
 
       # 构建 VuePress
       - name: 🏗️ 构建 VuePress 站点
