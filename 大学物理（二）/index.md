@@ -1,0 +1,30 @@
+---
+url: /大学物理（二）/index.md
+---
+## PPT
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+2023大学物理期中（下）点评2.ppt | 3.18 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023大学物理期中（下）点评2.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023大学物理期中（下）点评2.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023大学物理期中（下）点评2.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023大学物理期中（下）点评2.ppt)
+2023期中考试（下）点评1.ppt | 3.17 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023期中考试（下）点评1.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023期中考试（下）点评1.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023期中考试（下）点评1.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/2023期中考试（下）点评1.ppt)
+期末总复习（下1）2023.ppt | 2.84 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下1）2023.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下1）2023.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下1）2023.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下1）2023.ppt)
+期末总复习（下2）2023.ppt | 1.59 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下2）2023.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下2）2023.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下2）2023.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/PPT/期末总复习（下2）2023.ppt)
+
+## 习题
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+大学物理(二)期中考试模拟1.pdf | 591.01 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟1.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟1.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟1.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟1.pdf)
+大学物理(二)期中考试模拟2.pdf | 514.31 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟2.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟2.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟2.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟2.pdf)
+大学物理(二)期中考试模拟3.pdf | 509.75 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟3.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟3.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟3.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理\(二\)期中考试模拟3.pdf)
+大学物理下作业答案.pdf | 7.54 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下作业答案.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下作业答案.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下作业答案.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下作业答案.pdf)
+大学物理下期中历年题.pdf | 45.56 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下期中历年题.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下期中历年题.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下期中历年题.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大学物理下期中历年题.pdf)
+大物（下）题库.pdf | 24.92 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大物（下）题库.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大物（下）题库.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大物（下）题库.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/习题/大物（下）题库.pdf)
+
+## 资料
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+大学物理(下)期中考试总结.pdf | 2.77 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/资料/大学物理\(下\)期中考试总结.pdf) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/资料/大学物理\(下\)期中考试总结.pdf) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/资料/大学物理\(下\)期中考试总结.pdf) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/大学物理（二）/资料/大学物理\(下\)期中考试总结.pdf)
+
+## 本科目贡献者
