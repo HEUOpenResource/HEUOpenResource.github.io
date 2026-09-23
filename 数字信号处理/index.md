@@ -1,0 +1,36 @@
+---
+url: /数字信号处理/index.md
+---
+## 资料来源说明
+
+主要来自 Hwq 老师
+
+## PPT
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+0绪论-黄卫权.ppt | 2.01 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/0绪论-黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/0绪论-黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/0绪论-黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/0绪论-黄卫权.ppt)
+1离散时间信号与系统\_黄卫权.ppt | 1.64 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/1离散时间信号与系统_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/1离散时间信号与系统_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/1离散时间信号与系统_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/1离散时间信号与系统_黄卫权.ppt)
+2z变换与离散时间傅里叶变换\_黄卫权.ppt | 4.41 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/2z变换与离散时间傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/2z变换与离散时间傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/2z变换与离散时间傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/2z变换与离散时间傅里叶变换_黄卫权.ppt)
+3离散傅里叶变换\_黄卫权.ppt | 10.37 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/3离散傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/3离散傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/3离散傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/3离散傅里叶变换_黄卫权.ppt)
+4快速傅里叶变换\_黄卫权.ppt | 4.55 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/4快速傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/4快速傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/4快速傅里叶变换_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/4快速傅里叶变换_黄卫权.ppt)
+5数字滤波器的基本结构\_黄卫权.ppt | 2.93 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/5数字滤波器的基本结构_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/5数字滤波器的基本结构_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/5数字滤波器的基本结构_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/5数字滤波器的基本结构_黄卫权.ppt)
+6IIR数字滤波\_黄卫权.ppt | 4.97 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/6IIR数字滤波_黄卫权.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/6IIR数字滤波_黄卫权.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/6IIR数字滤波_黄卫权.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/6IIR数字滤波_黄卫权.ppt)
+7有限长单位冲激响应FIR滤波器的设计方法.ppt | 3.67 MB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/7有限长单位冲激响应FIR滤波器的设计方法.ppt) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/7有限长单位冲激响应FIR滤波器的设计方法.ppt) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/7有限长单位冲激响应FIR滤波器的设计方法.ppt) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/PPT/7有限长单位冲激响应FIR滤波器的设计方法.ppt)
+
+## 历年题
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+2008年秋数字信号处理试卷（A卷答案）.doc | 784.50 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷答案）.doc)
+2008年秋数字信号处理试卷（A卷）(双面).doc | 134.50 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2008年秋数字信号处理试卷（A卷）\(双面\).doc)
+2009年秋数字信号处理试卷（A卷答案）.doc | 350.50 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷答案）.doc) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷答案）.doc)
+2009年秋数字信号处理试卷（A卷）(双面).doc | 130.50 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷）\(双面\).doc) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/历年题/2009年秋数字信号处理试卷（A卷）\(双面\).doc)
+
+## 复习
+
+资料 | 大小 | Github下载 | 备用1 | 备用2 | 备用3
+|:---:|:---:|:---:|:---:|:---:|:---:
+总复习.docx | 285.00 KB | [下载](https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/复习/总复习.docx) | [下载](https://ghproxy.net/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/复习/总复习.docx) | [下载](https://ghproxy.kokomi0728.eu.org/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/复习/总复习.docx) | [下载](https://ghproxy.heu.us.kg/https://raw.githubusercontent.com/HEUOpenResource/heu-icicles/main/数字信号处理/复习/总复习.docx)
+
+## 本科目贡献者
